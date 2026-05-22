@@ -46,10 +46,10 @@ button {
     width: 100%;
     font-weight: bold;
     border-radius: none;
-    padding: 10px;
+    padding: 11px;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #2980b9;
+    background-color: #2d89c7;
 }
